@@ -38,7 +38,7 @@ class CyberSecuritySpecialist:
     def mission(self):
         return "Finding vulnerabilities before the bad actors do."
 
-me = CyberSecurityEnthusiast()
+me = CyberSecuritySpecialist()
 ```
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack & Tools
@@ -60,7 +60,6 @@ me = CyberSecurityEnthusiast()
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/-BloodHound-CC0000?style=flat-square&logo=neo4j&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-231F20?style=flat-square&logo=owasp&logoColor=white)
-![Suricata](https://img.shields.io/badge/-Suricata-FF3300?style=flat-square&logo=suricata&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Volatility](https://img.shields.io/badge/-Volatility-4B8BBE?style=flat-square&logo=python&logoColor=white)
