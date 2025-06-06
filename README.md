@@ -11,24 +11,26 @@
 /_/   /_/\__,_/\___/_/|_|/_____/___ |/_____/\__, /\___/ 
                                            /____/      
 </pre>
-
-<table width="100%">
-  <tr>
-    <td valign="middle" width="70%">
-      <ul>
-      <li>Trying to begin my life again</li>
-      <li>Learning to break and hack things, the ethical way</li>
-      <li>DIY designing, coding, and programming</li>
-      <li>Caring, then sharing</li>
-    </ul>
-    </td>
-    <td valign="middle">
-      <a href="https://github.com/Pluck3dEye">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div width="100%">
+    <table width="100%">
+      <tr>
+        <td valign="middle" width="70%">
+          <ul>
+          <br>
+          <li>Trying to begin my life again</li>
+          <li>Learning to break and hack things, the ethical way</li>
+          <li>DIY designing, coding, and programming</li>
+          <li>Caring, then sharing</li><br>
+        </ul>
+        </td>
+        <td valign="middle" width="40%">
+          <a href="https://github.com/Pluck3dEye">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+          </a>
+        </td>
+      </tr>
+    </table>
+</div>
 
 <p align="center">
   <a href="https://github.com/Blindn3ss">
