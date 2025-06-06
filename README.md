@@ -2,34 +2,35 @@
   <img src="assets/avatar_pluck3deye.svg" alt="Pluck3dEye Avatar" width="140" height="140" style="border-radius:50%; box-shadow:0 4px 16px rgba(0,0,0,0.15); margin-bottom: 10px;" />
 </p> -->
 
-<pre align="center">
+<!-- <pre align="center">
     ____  __           __   ________     ______          
    / __ \/ /_  _______/ /__|__  / __ \  / ____/_  _____ 
-  / /_/ / / / / / ___/ //_/ /_ / / / / / __/ / / / / _ \
+  / /_/ / / / / / ___/ //_/ /_ / / / / / / __/ / / / / _ \
  / ____/ / /_/ / /__/ ,<  ____/ /_/ / / /___/ /_/ /  __/
 /_/   /_/\__,_/\___/_/|_|/_____/___ |/_____/\__, /\___/ 
                                            /____/      
-</pre>
-<div width="100%">
-    <table width="100%">
-      <tr>
-        <td valign="middle" width="60%">
-          <ul>
-          <br>
-          <li>Trying to begin my life again</li>
-          <li>Learning to break and hack things, the ethical way</li>
-          <li>DIY designing, coding, and programming</li>
-          <li>Caring, then sharing</li><br>
-        </ul>
-        </td>
-        <td valign="middle" width="40%">
-          <a href="https://github.com/Pluck3dEye">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
-          </a>
-        </td>
-      </tr>
-    </table>
-</div>
+</pre> -->
+
+<p align="center">
+  <img src="assets/public/smoking-hot-girl-2.png" 
+       alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen" 
+       width="100%" />
+</p>
+
+---  
+
+> - Trying to begin my life again
+> - Learning to break and hack things, the ethical way
+> - DIY designing, coding, and programming
+> - Caring, then sharing  
+
+---
+
+<p align="center">
+  <a href="https://github.com/Pluck3dEye">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Blindn3ss">
@@ -54,11 +55,7 @@
 
 ---
 
-<p align="center">
-  <img src="assets/public/smoking-hot-girl-2.png" 
-       alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen" 
-       width="100%" />
-</p>
+
 
 
 
