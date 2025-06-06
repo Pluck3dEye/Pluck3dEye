@@ -17,7 +17,6 @@
 <table width="100%">
   <tr>
     <td valign="middle" width="60%">
-    <td>
       <ul>
       <li>Trying to begin my life again</li>
       <li>Learning to break and hack things, the ethical way</li>
@@ -26,7 +25,6 @@
     </ul>
     </td>
     <td valign="middle" width="40%">
-    <td>
       <a href="https://github.com/Pluck3dEye">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
