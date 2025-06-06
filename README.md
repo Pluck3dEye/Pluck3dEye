@@ -12,15 +12,9 @@
                                            /____/      
 </pre>
 
-## About Me
-
 <table width="100%">
   <tr>
-<<<<<<< HEAD
-    <td valign="middle" width="60%">
-=======
-    <td>
->>>>>>> 5370e50b2d10b6beecc824c77a95e3ecf7766526
+    <td valign="middle" width="70%">
       <ul>
       <li>Trying to begin my life again</li>
       <li>Learning to break and hack things, the ethical way</li>
@@ -28,17 +22,34 @@
       <li>Caring, then sharing</li>
     </ul>
     </td>
-<<<<<<< HEAD
-    <td valign="middle" width="40%">
-=======
-    <td>
->>>>>>> 5370e50b2d10b6beecc824c77a95e3ecf7766526
+    <td valign="middle">
       <a href="https://github.com/Pluck3dEye">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/Blindn3ss">
+    <img src="https://img.shields.io/badge/GitHub-Blindn3ss-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blindn3ss GitHub"/>
+  </a>
+  <!-- <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+  <a href="https://twitter.com/Pluck3dEye">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <!-- <a href="https://yourblog.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a> -->
+  <a href="https://app.hackthebox.com/profile/1825461">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/>
+  </a>
+  <a href="https://tryhackme.com/p/Pluck3dEye">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+</p>
 
 ---
 
