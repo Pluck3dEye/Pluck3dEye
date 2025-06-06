@@ -14,27 +14,20 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Trying to begin again my life</li>
-        <li>Learning breaking and hacking stuff</li>
-        <li>DIY Designing, Coding, Programming</li>
-        <li>Caring then Sharing</li>
-      </ul>
-      <a href="https://github.com/Pluck3dEye">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-    <td valign="top">
-      <img src="assets/public/smoking-hot-girl-2.png" 
-           alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen" 
-           width="200" />
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>Trying to begin again my life</li>
+  <li>Learning breaking and hacking stuff</li>
+  <li>DIY Designing, Coding, Programming</li>
+  <li>Caring then Sharing</li>
+</ul>
+<a href="https://github.com/Pluck3dEye">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
-
+<p align="center">
+  <img src="assets/public/smoking-hot-girl-2.png" 
+       alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen" 
+       width="200" />
+</p>
 
 
