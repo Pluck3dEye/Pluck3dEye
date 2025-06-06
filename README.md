@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top">
       <ul>
         <li>Trying to begin again my life</li>
         <li>Learning breaking and hacking stuff</li>
@@ -27,10 +27,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top">
       <img src="assets/public/smoking-hot-girl-2.png" 
            alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen" 
-           width="300" />
+           width="200" />
     </td>
   </tr>
 </table>
