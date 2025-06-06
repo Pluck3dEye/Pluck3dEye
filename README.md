@@ -14,27 +14,26 @@
 
 ## About Me
 
-<table width="100%">
-  <tr>
-    <td>
-      <ul>
-        <li>Trying to begin again my life</li>
-        <li>Learning breaking and hacking stuff</li>
-        <li>DIY Designing, Coding, Programming</li>
-        <li>Caring then Sharing</li>
-      </ul>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Trying to begin again my life</li>
+      <li>Learning breaking and hacking stuff</li>
+      <li>DIY Designing, Coding, Programming</li>
+      <li>Caring then Sharing</li>
+    </ul>
+    <div>
       <a href="https://github.com/Pluck3dEye">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
-    </td>
-    <td>
-      <img src="assets/public/smoking-hot-girl-2.png"
-           alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen"
-           height="220"
-           style="border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" />
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="assets/public/smoking-hot-girl-2.png" 
+         alt="AI Smoking Hot Girl by Dung Khanh Viet Nguyen" 
+         style="max-width: 450px; width: 100%; border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" />
+  </div>
+</div>
 
 
 
