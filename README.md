@@ -22,7 +22,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td>
       <ul>
         <li>Trying to begin again my life</li>
         <li>Learning breaking and hacking stuff</li>
@@ -30,7 +30,7 @@
         <li>Caring then Sharing</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td>
       <a href="https://github.com/Pluck3dEye">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
