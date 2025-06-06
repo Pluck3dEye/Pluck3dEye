@@ -14,11 +14,7 @@
 
 <table width="100%">
   <tr>
-<<<<<<< HEAD
     <td valign="middle" width="70%">
-=======
-    <td valign="middle" width="60%">
->>>>>>> f32dd4343a71348730f65019b8b2f11f21e6485e
       <ul>
       <li>Trying to begin my life again</li>
       <li>Learning to break and hack things, the ethical way</li>
@@ -26,11 +22,7 @@
       <li>Caring, then sharing</li>
     </ul>
     </td>
-<<<<<<< HEAD
     <td valign="middle">
-=======
-    <td valign="middle" width="40%">
->>>>>>> f32dd4343a71348730f65019b8b2f11f21e6485e
       <a href="https://github.com/Pluck3dEye">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
