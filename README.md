@@ -1,4 +1,3 @@
-
 <!-- <p align="center">
   <img src="assets/avatar_pluck3deye.svg" alt="Pluck3dEye Avatar" width="140" height="140" style="border-radius:50%; box-shadow:0 4px 16px rgba(0,0,0,0.15); margin-bottom: 10px;" />
 </p> -->
@@ -14,7 +13,7 @@
 <div width="100%">
     <table width="100%">
       <tr>
-        <td valign="middle" width="70%">
+        <td valign="middle" width="60%">
           <ul>
           <br>
           <li>Trying to begin my life again</li>
@@ -25,7 +24,7 @@
         </td>
         <td valign="middle" width="40%">
           <a href="https://github.com/Pluck3dEye">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluck3dEye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
           </a>
         </td>
       </tr>
